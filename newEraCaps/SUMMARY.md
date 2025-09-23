@@ -7,7 +7,7 @@
 * [Products](flows/products/products-phase1.md)
 * [Inventory](flows/inventory/inventory-phase1.md)
 * [Brokering](flows/brokering/brokering-phase1.md)
-   * [WMS Feed](flows/brokering/wms-feed-phase.md)
+   * [WMS Feed](flows/brokering/wms-feed-phase1.md)
     * [Header Item](flows/brokering/header-item-phase-1.md)
     * [Detail Item](flows/brokering/detail-item-phase-1.md)
 * [Fulfillment](flows/fulfillment/fulfillment-phase1.md)
