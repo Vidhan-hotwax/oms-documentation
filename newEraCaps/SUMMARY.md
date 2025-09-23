@@ -5,14 +5,14 @@
 
 ## Flows- Phase 1
 * [Products](flows/products/products-phase1.md)
-* [Inventory](flows/inventory/inventory-phase1)
-* [Brokering](flows/brokering/brokering-phase1)
-   * [WMS Feed](flows/brokering/wms-feed-phase-1)
+* [Inventory](flows/inventory/inventory-phase1.md)
+* [Brokering](flows/brokering/brokering-phase1.md)
+   * [WMS Feed](flows/brokering/wms-feed-phase.md)
     * [Header Item](flows/brokering/header-item-phase-1.md)
     * [Detail Item](flows/brokering/detail-item-phase-1.md)
 * [Fulfillment](flows/fulfillment/fulfillment-phase1.md)
    * [Completed Feed](flows//fulfillment/complete-order-phase-1.md)
-* [Sales Order](flows/sales-order/sales-order-phase-1)
+* [Sales Order](flows/sales-order)
   * [Omnichannel Orders](flows/sales-order/omnichannel-orders-phase-1.md)
   * [Digital Items](flows/sales-order/digital-items-phase-1.md)
   * [Note Attributes](flows/sales-order/note-attributes-phase-1.md)
