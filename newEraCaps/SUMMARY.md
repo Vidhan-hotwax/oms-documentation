@@ -11,7 +11,6 @@
     * [Header Item](flows/brokering/header-item-phase-1.md)
     * [Detail Item](flows/brokering/detail-item-phase-1.md)
 * [Fulfillment](flows/fulfillment/fulfillment-phase1.md)
-   * [Completed Feed](flows/fulfillment/complete-order-phase-1.md)
 * [Sales Order](flows/sales-order)
   * [Omnichannel Orders](flows/sales-order/omnichannel-orders-phase-1.md)
   * [Digital Items](flows/sales-order/digital-items-phase-1.md)
