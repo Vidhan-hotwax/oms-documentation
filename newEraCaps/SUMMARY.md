@@ -4,7 +4,7 @@
 * [Why HotWax Commerce](whyHotWax.md)
 
 ## Flows- Phase 1
-* [Products](flows/products-phase1.md)
+* [Products](flows/products/products-phase1.md)
 * [Inventory](flows/inventory-phase1/README.md)
 * [Brokering](flows/brokering-phase1/README.md)
    * [WMS Feed](flows/fulfillment/wms-feed-phase-1/README.md)
