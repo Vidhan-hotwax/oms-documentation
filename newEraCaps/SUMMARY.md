@@ -16,7 +16,6 @@
   * [Omnichannel Orders](flows/sales-order/omnichannel-orders-phase-1.md)
   * [Digital Items](flows/sales-order/digital-items-phase-1.md)
   * [Note Attributes](flows/sales-order/note-attributes-phase-1.md)
-  * [Custom Order Import](flows/sales-order/custom-order-import-phase-1.md)
   * [Payment Methods](flows/sales-order/payment-methods-phase-phase-1.md)
 * [Product Store](flows/product-store/README.md)
 
